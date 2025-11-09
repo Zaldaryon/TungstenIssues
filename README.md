@@ -1,2 +1,2 @@
 # TungstenIssues
-Issue Tracker for the OptiTime (https://mods.vintagestory.at/tungsten) mod
+Issue Tracker for the Tungsten (https://mods.vintagestory.at/tungsten) mod
